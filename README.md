@@ -8,5 +8,6 @@ A repository of publicly available AI workbooks, tutorials and training infrastr
 ## Workbooks and tutorials
 
 ## Online courses
+* [Cornell University - Deep Generative Models course](https://kuleshov-group.github.io/dgm-website/) - a freely available course by Volodymyr Kuleshov. Full video lectures [here](https://www.youtube.com/@vkuleshov/playlists) including for the course on Applied Machine Learning. 
 * [iGotKarmayogi](https://www.igotkarmayogi.gov.in/#/) - Government of India website for online training of government officials
 
