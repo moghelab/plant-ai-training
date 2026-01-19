@@ -14,6 +14,8 @@ A repository of publicly available AI workbooks, tutorials and training infrastr
 
 ## Workbooks and tutorials
 * [Ready-Steady-Go-AI](https://github.com/HarfoucheLab/Ready-Steady-Go-AI) - Supplement to the [paper](https://www.sciencedirect.com/science/article/pii/S2666389921001719), Ready, Steady, Go AI: A Practical Tutorial on Fundamentals of Artificial Intelligence and Its Applications in Phenomics Image Analysis. It aims to introduce the basic principles for implementing AI and explainable AI algorithms in image-based data analysis using the PlantVillage dataset to detect and classify tomato leaf diseases and spider mites as a case study.
+* [Plant DNA LLMs](https://github.com/zhangtaolab/Plant_DNA_LLMs) - Supplement to the [paper](https://www.cell.com/molecular-plant/fulltext/S1674-2052(24)00390-3) "PDLLMs: A group of tailored DNA large language models for analyzing plant genomes". The tutorial explains how to utilize a family of DNA foundation models for identifying core plant promoters.
+
 
 ## Online courses
 * [Cornell University - Deep Generative Models course](https://kuleshov-group.github.io/dgm-website/) - a freely available course by Volodymyr Kuleshov. Full video lectures [here](https://www.youtube.com/@vkuleshov/playlists) including for the course on Applied Machine Learning. 
