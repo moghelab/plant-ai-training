@@ -13,6 +13,7 @@ A repository of publicly available AI workbooks, tutorials and training infrastr
 * [Kaggle](https://www.kaggle.com/datasets) - Online community for data scientists to share code and datasets. Multiple users can provide Python scripts, Jupyter Notebooks and Google Collab workflows for analyzing a given dataset. 
 
 ## Workbooks and tutorials
+* [Ready-Steady-Go-AI](https://github.com/HarfoucheLab/Ready-Steady-Go-AI) - Supplement to the paper, [Ready, Steady, Go AI: A Practical Tutorial on Fundamentals of Artificial Intelligence and Its Applications in Phenomics Image Analysis](https://www.sciencedirect.com/science/article/pii/S2666389921001719). It aims to introduce the basic principles for implementing AI and explainable AI algorithms in image-based data analysis using the PlantVillage dataset to detect and classify tomato leaf diseases and spider mites as a case study.
 
 ## Online courses
 * [Cornell University - Deep Generative Models course](https://kuleshov-group.github.io/dgm-website/) - a freely available course by Volodymyr Kuleshov. Full video lectures [here](https://www.youtube.com/@vkuleshov/playlists) including for the course on Applied Machine Learning. 
