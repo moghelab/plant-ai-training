@@ -7,7 +7,7 @@ A repository of publicly available AI workbooks, tutorials and training infrastr
 * [scPlantLLM](https://github.com/compbioNJU/scPlantLLM/tree/main) - a transformer-based model specifically designed for the exploration of single-cell expression atlases in plants
 * [Plant Connectome](https://plant.connectome.tools/) - PlantConnectome is a powerful resource providing insights into millions of relationships involving genes, molecules, compartments, stresses, organs, and other plant entities.
 * [FuncZyme](https://tools.moghelab.org/funczymedb) - Tools for predicting plant enzyme function, developed using LLM-based extraction of enzyme-substrate interactions
-* [PlantCAD](https://www.maizegenetics.net/plantcad) - DNA foundation model trained on plant genomes. PlantCAD enables cross-species genome annotation and deleterious mutation prediction.
+* [PlantCAD](https://www.maizegenetics.net/plantcad) - DNA foundation model trained on plant genomes. PlantCAD enables cross-species genome annotation and deleterious mutation prediction. Also includes a link to a [Google Collab workbook](https://colab.research.google.com/drive/1QW9Lgwra0vHQAOICE2hsIVcp6DKClyhO?usp=sharing) for checking out PlantCAD.
 
 ## Public AI-ready datasets
 * [Kaggle](https://www.kaggle.com/datasets) - Online community for data scientists to share code and datasets. Multiple users can provide Python scripts, Jupyter Notebooks and Google Collab workflows for analyzing a given dataset. 
