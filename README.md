@@ -26,7 +26,7 @@ A repository of publicly available AI workbooks, tutorials and training infrastr
 * [**Google — Machine Learning Crash Course**](https://developers.google.com/machine-learning/crash-course) - Interactive ML fundamentals with exercises.
 * [**Kaggle Learn — Micro-courses**](https://www.kaggle.com/learn) - Short, practical courses (Python, pandas, ML, feature engineering, XGBoost, etc.).
 * [**fast.ai — Practical Deep Learning for Coders**](https://course.fast.ai/) - Practical Deep Learning course with notebooks.
-* [**EMBL-EBI Training — Artificial Intelligence**](https://www.ebi.ac.uk/about/our-impact/ai-and-machine-learning/) — AI course materials targeted to life sciences, including plant focused.
+* [**EMBL-EBI Training — Artificial Intelligence**](https://www.ebi.ac.uk/about/our-impact/ai-and-machine-learning/) - AI course materials targeted to life sciences, including plant focused.
 * [**Dive Into Deep Learning**](https://d2l.ai/chapter_preface/index.html) - Deep Learning book that covers theory and practical examples.
 
 
@@ -59,12 +59,19 @@ A repository of publicly available AI workbooks, tutorials and training infrastr
 * [**PlantBert**](https://huggingface.co/PHENOMA/PlantDeBERTa) - Based on the [paper](https://arxiv.org/html/2506.08897v1#:~:text=breakthroughs%20in%20biomedical%20and%20clinical,grounded%20entity%20normalization) PlantBert: An Open Source Language Model for Plant Science  it works as a named entity recognition (NER) and relation extraction in plant biology text, identifying genes, traits, stresses, and molecular interactions from papers.
 * [**PLLaMA (Plant-LLaMA)**](https://huggingface.co/Xianjun/PLLaMa-13b-instruct) - Based on the [paper](https://arxiv.org/abs/2401.01600#:~:text=However%2C%20their%20effectiveness%20is%20limited,Moreover%2C%20we%20have%20formed%20an) PLLaMa: An Open-source Large Language Model for Plant Science it's based on Meta’s LLaMA-2 architecture, but further trained on a database of 1.5+ million plant science articles and publications. It functions as a plant science expert, providing accurate responses to questions on plant science topics.
 * [**AgriBERT**]()
+* [**ScPlantLLM**]()
+* [**AgroNT**]()
+* [**PDLLMs**]()
+* [**PlantCaduceus**]()
+* [**PlantGPT**]()
+
 
 ## General foundation models useful for plant research
 * [**ESM**](https://github.com/evolutionaryscale/esm) - EvolutionaryScale Models - protein foundation models for sequence and/or structure analysis
 * [**Profluent**](https://www.profluent.bio/) - Based on the [paper](https://www.biorxiv.org/content/10.1101/2025.11.12.688125v1.full) E1: Retrieval-Augmented Protein Encoder Models - Retrieval-Augmented Protein Encoder Model, provides relevant evolutionary context during training and inference of protein sequence, structure and function.
-* [**AlphaFold 2**]()
-* 
+* [**AlphaFold 2**](https://alphafoldserver.com/welcome) -
+* [**Boltz-2**](https://pmc.ncbi.nlm.nih.gov/articles/PMC12262699/) - 
+
  
 # Tools and applications using GenAI (plant-focused)
 
