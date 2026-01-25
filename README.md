@@ -28,6 +28,9 @@ A repository of publicly available AI workbooks, tutorials and training infrastr
 
 ### General AI/ML tutorials
 * [Ready-Steady-Go-AI](https://github.com/HarfoucheLab/Ready-Steady-Go-AI) - Supplement to the [paper](https://www.sciencedirect.com/science/article/pii/S2666389921001719), Ready, Steady, Go AI: A Practical Tutorial on Fundamentals of Artificial Intelligence and Its Applications in Phenomics Image Analysis. It aims to introduce the basic principles for implementing AI and explainable AI algorithms in image-based data analysis using the PlantVillage dataset to detect and classify tomato leaf diseases and spider mites as a case study.
+* [Hugging Face - Learn](https://huggingface.co/learn) - Open-source platform with the most comprehensive ecosystem for ML development: Transformers library, Model Hub, Datasets, Spaces for deployment, and extensive documentation with practical tutorials.
+
+### Plant AI/ML tutorials
 * [PlantCV](https://plantcv.org/?utm_source=chatgpt.com) - Supplement to the [paper](https://www.biorxiv.org/content/10.1101/2025.11.19.689271v1), PlantCV v4: Image analysis software for high-throughput plant phenotyping. It aims to develop open-source tools for measuring plant traits from images. It offers a set of tutorials and workshops to teach how to implement K-means Clustering, Naive Bayes and other AI algorithms to analyse plant phenotypes.
 
 
