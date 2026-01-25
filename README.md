@@ -75,9 +75,9 @@ A repository of publicly available AI workbooks, tutorials and training infrastr
 
 # Compute and training platforms
 ## Free Computing Resources for AI Training
-* [**Google Colab**]()
-* [**Kaggle Notebooks**]()
-* [**Hugging Face Spaces**]()
+* [**Google Colab**](https://colab.google/) - Hosted Jupyter notebook service by Google that provides free access to computing resources, including GPUs and TPUs.
+* [**Kaggle Notebooks**](https://www.kaggle.com/code) -  Free cloud computing environment similar to Colab, integrated with its dataset repository. 
+* [**Hugging Face Spaces**](https://huggingface.co/docs/hub/en/spaces) - Simple way to deploy ML apps and demos on Hugging Face. If you develop a new model (say a plant disease identifier), you can create a Space and share an interactive demo with colleagues or the community.
 
 ## Academic and Public HPC Infrastructures
 * [**CyVerse (formerly iPlant Collaborative)**](https://learning.cyverse.org/home/what_is_cyverse/) - NSF-funded Cloud infrastructure and open source software operated at the University of Arizona. Users can launch VMs, Docker containers or access computational resources for training AI models.
