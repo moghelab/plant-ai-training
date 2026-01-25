@@ -80,15 +80,14 @@ A repository of publicly available AI workbooks, tutorials and training infrastr
 * [**Hugging Face Spaces**]()
 
 ## Academic and Public HPC Infrastructures
-* [**CyVerse (formerly iPlant Collaborative)**](https://learning.cyverse.org/home/what_is_cyverse/) - 
-* [**USDA SCINet HPC**]()
-* [**XSEDE/ACCESS Program**]()
-* [**de.NBI / ELIXIR-DE Cloud**]()
+* [**CyVerse (formerly iPlant Collaborative)**](https://learning.cyverse.org/home/what_is_cyverse/) - NSF-funded Cloud infrastructure and open source software operated at the University of Arizona. Users can launch VMs, Docker containers or access computational resources for training AI models.
+* [**USDA SCINet HPC**](https://scinet.usda.gov/about/#:~:text=The%20SCINet%20initiative%20is%20an,and%20training%20in%20scientific%20computing) - USDA Agricultural Research Service’s high-performance computing initiative that offers USDA scientists and collaborators access to HPC clusters and AI hardware.
+* [**ACCESS Program**](https://access-ci.org/) - NSF-funded program that offers academic researchers allocation on national supercomputers.
+* [**de.NBI / ELIXIR-DE Cloud**](https://www.denbi.de/cloud) - The de.NBI network offers services, training, and cloud resources to users in life sciences and biomedicine across Germany and Europe. Read more on [The de.NBI / ELIXIR-DE training platform - Bioinformatics training in Germany and across Europe within ELIXIR](https://pmc.ncbi.nlm.nih.gov/articles/PMC7607484/#:~:text=The%20German%20Network%20for%20Bioinformatics,NBI%20and%20the%20German).
 
 ## Industry and Cloud Resources
-* [**Google Earth Engine & Cloud**]()
-* [**Microsoft AI for Earth**]()
-* [**NVIDIA Hardware Grants and NGC**]()
+* [**Google Earth Engine & Cloud**](https://console.cloud.google.com/earth-engine/welcome?pli=1) - Offers research credits at no cost for non-comercial use to access different kind of computational resources.
+* [**NVIDIA Hardware Grants and NGC**](https://www.nvidia.com/en-us/industries/higher-education-research/academic-grant-program/) - NVIDIA sponsors academic research via GPU hardware grants and its NVIDIA GPU Cloud (NGC) which hosts pre-configured containers for deep learning. The PI must apply for the services and they must comply a list of requirements.
 
 
-* Please see our manuscript, Supplementary File, for more information
+Please see our manuscript, Supplementary File, for more information
