@@ -5,11 +5,13 @@ A repository of publicly available AI workbooks, tutorials and training infrastr
 ## Online free courses
 ### General AI-related courses
 * [**Cornell University - Deep Generative Models course**](https://kuleshov-group.github.io/dgm-website/) - a freely available course by Volodymyr Kuleshov. Full video lectures [here](https://www.youtube.com/@vkuleshov/playlists) including for the course on Applied Machine Learning.
-* [**Cornell University - Intro to Deep Learning course**](https://www.cs.cornell.edu/courses/cs4782/2026sp/) - a freely available course by [Kilian Q. Weinberger](https://www.cs.cornell.edu/~kilian/) and [Wei-Chiu Ma](https://www.cs.cornell.edu/~weichiu/). It includes a complete learning syllabus, slides from each class and relevant resources.
-* [**CornellX - Applications of Machine Learning in Plant Science**](https://www.edx.org/learn/biology-life-sciences/cornell-university-applications-of-machine-learning-in-plant-science) - A freely available edX course by [Adrian Powell](https://www.edx.org/bio/adrian-powell) and [Gaurav Moghe](https://www.edx.org/bio/gaurav-moghe). The course provides an introduction to the fundamentals of machine learning with application examples in the context of plant science.
-* [**Stanford CS229: Machine Learning**](https://cs229.stanford.edu/) - A freely available course by [Emily Fox](https://emilybfox.su.domains/), [Sanmi Koyejo](https://cs.stanford.edu/~sanmi/) and [Andrew Ng](https://www.andrewng.org/) (Youtube). Full video lectures [here](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU).
+* [**Cornell University - Intro to Deep Learning course**](https://www.cs.cornell.edu/courses/cs4782/2026sp/) - a freely available course by Kilian Weinberger  and Wei-Chiu Ma. It includes a complete learning syllabus, slides from each class and relevant resources.
+* [**Stanford CS229: Machine Learning**](https://cs229.stanford.edu/) - A freely available course by Emily Fox, Sanmi Koyejo and Andrew Ng. Full video lectures [here](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU).
 * [**USDA SCINet Training Resources**](https://scinet.usda.gov/training/free-online-training#:~:text=A%20list%20of%20free%20trainings,may%20help%20you%20get%20started) - The USDA Agricultural Research Service SCINet initiative offers a compiled list of free online computational training, sorted by topic, including Python, R, statistics, Artificial Intelligence and Machine Learning, Geospatial analysis, and more. 
 * [**iGotKarmayogi**](https://www.igotkarmayogi.gov.in/#/) - Government of India website for online training of government officials.
+
+### Plant science-specific AI/ML courses
+* [**CornellX - Applications of Machine Learning in Plant Science**](https://learning.edx.org/course/course-v1:CornellX+AMLPS+2T2024/home) - A freely available edX course by Adrian Powell and Gaurav Moghe. The course provides an introduction to the fundamentals of machine learning with application examples in the context of plant science.
 
 
 ## Hands-on tutorials and workbooks
