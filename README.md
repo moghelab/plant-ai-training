@@ -78,7 +78,7 @@ A repository of publicly available AI workbooks, tutorials and training infrastr
 * [**Hugging Face Spaces**]()
 
 ## Academic and Public HPC Infrastructures
-* [**CyVerse (formerly iPlant Collaborative)**]()
+* [**CyVerse (formerly iPlant Collaborative)**](https://learning.cyverse.org/home/what_is_cyverse/) - 
 * [**USDA SCINet HPC**]()
 * [**XSEDE/ACCESS Program**]()
 * [**de.NBI / ELIXIR-DE Cloud**]()
