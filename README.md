@@ -7,8 +7,9 @@ A repository of publicly available AI workbooks, tutorials and training infrastr
 * [**Cornell University - Deep Generative Models course**](https://kuleshov-group.github.io/dgm-website/) - a freely available course by Volodymyr Kuleshov. Full video lectures [here](https://www.youtube.com/@vkuleshov/playlists) including for the course on Applied Machine Learning.
 * [**Cornell University - Intro to Deep Learning course**](https://www.cs.cornell.edu/courses/cs4782/2026sp/) - a freely available course by [Kilian Q. Weinberger](https://www.cs.cornell.edu/~kilian/) and [Wei-Chiu Ma](https://www.cs.cornell.edu/~weichiu/). It includes a complete learning syllabus, slides from each class and relevant resources.
 * [**CornellX - Applications of Machine Learning in Plant Science**](https://www.edx.org/learn/biology-life-sciences/cornell-university-applications-of-machine-learning-in-plant-science) - A freely available edX course by [Adrian Powell](https://www.edx.org/bio/adrian-powell) and [Gaurav Moghe](https://www.edx.org/bio/gaurav-moghe). The course provides an introduction to the fundamentals of machine learning with application examples in the context of plant science.
-* [**Stanford CS229: Machine Learning**](https://cs229.stanford.edu/) - A freely available course by [Emily Fox](https://emilybfox.su.domains/), [Sanmi Koyejo](https://cs.stanford.edu/~sanmi/) and [Andrew Ng](https://www.andrewng.org/) (Youtube). Full video lectures [here](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)
-* [**iGotKarmayogi**](https://www.igotkarmayogi.gov.in/#/) - Government of India website for online training of government officials
+* [**Stanford CS229: Machine Learning**](https://cs229.stanford.edu/) - A freely available course by [Emily Fox](https://emilybfox.su.domains/), [Sanmi Koyejo](https://cs.stanford.edu/~sanmi/) and [Andrew Ng](https://www.andrewng.org/) (Youtube). Full video lectures [here](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU).
+* [**USDA SCINet Training Resources**](https://scinet.usda.gov/training/free-online-training#:~:text=A%20list%20of%20free%20trainings,may%20help%20you%20get%20started) - The USDA Agricultural Research Service SCINet initiative offers a compiled list of free online computational training, sorted by topic, including Python, R, statistics, Artificial Intelligence and Machine Learning, Geospatial analysis, and more. 
+* [**iGotKarmayogi**](https://www.igotkarmayogi.gov.in/#/) - Government of India website for online training of government officials.
 
 
 ## Hands-on tutorials and workbooks
@@ -21,9 +22,11 @@ A repository of publicly available AI workbooks, tutorials and training infrastr
 
 ### General AI/ML tutorials useful for plant scientists
 * [**Hugging Face - Learn**](https://huggingface.co/learn) - Open-source platform with the most comprehensive ecosystem for ML development: Transformers library, Model Hub, Datasets, Spaces for deployment, and extensive documentation with practical tutorials. Relevant courses include: [LLM Course](https://huggingface.co/learn/llm-course/chapter1/1), [Deep Reinforcement Learning Course](https://huggingface.co/learn/deep-rl-course/unit0/introduction), [Diffusion Course](https://huggingface.co/learn/diffusion-course/unit0/1), and many others.
-* [Google — Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course) - Interactive ML fundamentals with exercises.
-* [Kaggle Learn — Micro-courses](https://www.kaggle.com/learn) - Short, practical courses (Python, pandas, ML, feature engineering, XGBoost, etc.).
-* [fast.ai — Practical Deep Learning for Coders](https://course.fast.ai/) - Practical DL course with notebooks
+* [**Google — Machine Learning Crash Course**](https://developers.google.com/machine-learning/crash-course) - Interactive ML fundamentals with exercises.
+* [**Kaggle Learn — Micro-courses**](https://www.kaggle.com/learn) - Short, practical courses (Python, pandas, ML, feature engineering, XGBoost, etc.).
+* [**fast.ai — Practical Deep Learning for Coders**](https://course.fast.ai/) - Practical Deep Learning course with notebooks.
+* [**EMBL-EBI Training — Artificial Intelligence**](https://www.ebi.ac.uk/about/our-impact/ai-and-machine-learning/) — AI course materials targeted to life sciences, including plant focused.
+
 
 
 
@@ -31,15 +34,17 @@ A repository of publicly available AI workbooks, tutorials and training infrastr
 
 ## General datasets
 * [**Kaggle**](https://www.kaggle.com/datasets) - Online community for data scientists to share code and datasets. Multiple users can provide Python scripts, Jupyter Notebooks and Google Collab workflows for analyzing a given dataset.
-* [**UCI Machine Learning Repository](https://archive.ics.uci.edu/) - Contains classic biological datasets useful for teaching basic ML concepts.
+* [**UCI Machine Learning Repository**](https://archive.ics.uci.edu/) - Contains classic biological datasets useful for teaching basic ML concepts.
 
 ## Plant-specific datasets
 ### Image analysis
 * [**PlantVillage**](https://www.tensorflow.org/datasets/catalog/plant_village) - Supplement to the paper [An open access repository of images on plant health to enable the development of mobile disease diagnostics](https://arxiv.org/abs/1511.08060). A large open dataset of ~54,300 images of healthy and diseased plant leaves, spanning 14 crop species and 26 diseases. Each image is labeled with species and disease (or healthy).
+* [**Open Plant Phenotype Database (OPPD)**](https://datasetninja.com/open-plant-phenotyping-database#images) - Supplement to the paper [Open Plant Phenotype Database of Common Weeds in Denmark](https://www.mdpi.com/2072-4292/12/8/1246). A public dataset of plant images for phenotyping, featuring ~7,590 RGB images covering 47 species. It includes various imaging scenarios (leaf images, whole rosettes, etc.) with annotations, useful for tasks like leaf counting and plant detection.
+* [**Open Plant Image Archive**](https://ngdc.cncb.ac.cn/opia/datasets) - Supplement to the paper [OPIA: an open archive of plant images and related phenotypic traits](https://pubmed.ncbi.nlm.nih.gov/37930849/). A comprehensive archive aggregating many plant image datasets in one place.
 
 
 ### Genomic and Genetic
-* [**The Arabidopsis Genome Database (AGD)**](https://db.cngb.org/genomics/arabidopsis/) Whole-genome sequences of 1,135 natural accessions of A. thaliana, plus extensive genotype and variant data
+* [**The Arabidopsis Genome Database (AGD)**](https://db.cngb.org/genomics/arabidopsis/) - Whole-genome sequences of 1,135 natural accessions of A. thaliana, plus extensive genotype and variant data.
 * [**1001 Genomes Tools**](https://1001genomes.org/tools.html) - A multi-omics dataset collection focused on A. thaliana.
 * [**EnsemblPlants**](https://plants.ensembl.org/index.html) - Databases providing reference genomes for dozens of plant species, along with gene annotations and comparative genomics tools.
 * [**Plant Cell Atlas**](https://www.plantcellatlas.org/tools-and-repositories.html) - Community resource that contains relevant RNA-seq, single-cell RNA-seq and genetic datasets.
@@ -47,14 +52,14 @@ A repository of publicly available AI workbooks, tutorials and training infrastr
 
 # Models
 ## Plant-specific foundation / pretrained models
-* [**scPlantLLM**](https://github.com/compbioNJU/scPlantLLM/tree/main) - a transformer-based model specifically designed for the exploration of single-cell expression atlases in plants
+* [**scPlantLLM**](https://github.com/compbioNJU/scPlantLLM/tree/main) - a transformer-based model specifically designed for the exploration of single-cell expression atlases in plants.
 * [**PlantCAD**](https://www.maizegenetics.net/plantcad) - DNA foundation model trained on plant genomes. PlantCAD enables cross-species genome annotation and deleterious mutation prediction. Also includes a link to a [Google Collab workbook](https://colab.research.google.com/drive/1QW9Lgwra0vHQAOICE2hsIVcp6DKClyhO?usp=sharing) for checking out PlantCAD.
 * [**PlantBert**](https://huggingface.co/PHENOMA/PlantDeBERTa) - Based on the paper [PlantBert: An Open Source Language Model for Plant Science](https://arxiv.org/html/2506.08897v1#:~:text=breakthroughs%20in%20biomedical%20and%20clinical,grounded%20entity%20normalization) it works as a named entity recognition (NER) and relation extraction in plant biology text, identifying genes, traits, stresses, and molecular interactions from papers.
 * [**PLLaMA (Plant-LLaMA)**](https://huggingface.co/Xianjun/PLLaMa-13b-instruct) - Based on the paper [PLLaMa: An Open-source Large Language Model for Plant Science](https://arxiv.org/abs/2401.01600#:~:text=However%2C%20their%20effectiveness%20is%20limited,Moreover%2C%20we%20have%20formed%20an) it's based on Meta’s LLaMA-2 architecture, but further trained on a database of 1.5+ million plant science articles and publications. It functions as a plant science expert, providing accurate responses to questions on plant science topics.
 * [**AgriBERT**]()
 
 ## General foundation models useful for plant research
-* [**ESM**](https://github.com/evolutionaryscale/esm) EvolutionaryScale Models - protein foundation models for sequence and/or structure analysis
+* [**ESM**](https://github.com/evolutionaryscale/esm) - EvolutionaryScale Models - protein foundation models for sequence and/or structure analysis
 * [**Profluent**](https://www.profluent.bio/) - Based on the paper [E1: Retrieval-Augmented Protein Encoder Models](https://www.biorxiv.org/content/10.1101/2025.11.12.688125v1.full) - Retrieval-Augmented Protein Encoder Model, provides relevant evolutionary context during training and inference of protein sequence, structure and function.
 * [**AlphaFold 2**]()
 * 
@@ -62,18 +67,26 @@ A repository of publicly available AI workbooks, tutorials and training infrastr
 # Tools and applications using GenAI (plant-focused)
 
 * [**Plant Connectome**](https://plant.connectome.tools/) - PlantConnectome is a powerful resource providing insights into millions of relationships involving genes, molecules, compartments, stresses, organs, and other plant entities.
-* [**FuncZyme**](https://tools.moghelab.org/funczymedb) - Tools for predicting plant enzyme function, developed using LLM-based extraction of enzyme-substrate interactions
-
-
-
-
-
-
-
-
+* [**FuncZyme**](https://tools.moghelab.org/funczymedb) - Tools for predicting plant enzyme function, developed using LLM-based extraction of enzyme-substrate interactions.
 
 
 
 # Compute and training platforms
-## High-performance computing training infrastructures
+## Free Computing Resources for AI Training
+* [**Google Colab**]()
+* [**Kaggle Notebooks**]()
+* [**Hugging Face Spaces**]()
+
+## Academic and Public HPC Infrastructures
+* [**CyVerse (formerly iPlant Collaborative)**]()
+* [**USDA SCINet HPC**]()
+* [**XSEDE/ACCESS Program**]()
+* [**de.NBI / ELIXIR-DE Cloud**]()
+
+## Industry and Cloud Resources
+* [**Google Earth Engine & Cloud**]()
+* [**Microsoft AI for Earth**]()
+* [**NVIDIA Hardware Grants and NGC**]()
+
+
 * Please see our manuscript, Supplementary File, for more information
