@@ -6,6 +6,7 @@ A repository of publicly available AI workbooks, tutorials and training infrastr
 ### General AI-related courses
 * [Cornell University - Deep Generative Models course](https://kuleshov-group.github.io/dgm-website/) - a freely available course by Volodymyr Kuleshov. Full video lectures [here](https://www.youtube.com/@vkuleshov/playlists) including for the course on Applied Machine Learning.
 * [Cornell University - Intro to Deep Learning course](https://www.cs.cornell.edu/courses/cs4782/2026sp/) - a freely available course by [Kilian Q. Weinberger](https://www.cs.cornell.edu/~kilian/) and [Wei-Chiu Ma](https://www.cs.cornell.edu/~weichiu/). It includes a complete learning syllabus, slides from each class and relevant resources.
+* [CornellX - Applications of Machine Learning in Plant Science](https://www.edx.org/learn/biology-life-sciences/cornell-university-applications-of-machine-learning-in-plant-science) - a freely available edX course by [Adrian Powell](https://www.edx.org/bio/adrian-powell) and [Gaurav Moghe](https://www.edx.org/bio/gaurav-moghe). The course provides an introduction to the fundamentals of machine learning with application examples in the context of plant science.
 * [iGotKarmayogi](https://www.igotkarmayogi.gov.in/#/) - Government of India website for online training of government officials
 
 
