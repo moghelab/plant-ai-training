@@ -6,7 +6,8 @@ A repository of publicly available AI workbooks, tutorials and training infrastr
 ### General AI-related courses
 * [**Cornell University - Deep Generative Models course**](https://kuleshov-group.github.io/dgm-website/) - a freely available course by Volodymyr Kuleshov. Full video lectures [here](https://www.youtube.com/@vkuleshov/playlists) including for the course on Applied Machine Learning.
 * [**Cornell University - Intro to Deep Learning course**](https://www.cs.cornell.edu/courses/cs4782/2026sp/) - a freely available course by [Kilian Q. Weinberger](https://www.cs.cornell.edu/~kilian/) and [Wei-Chiu Ma](https://www.cs.cornell.edu/~weichiu/). It includes a complete learning syllabus, slides from each class and relevant resources.
-* [**CornellX - Applications of Machine Learning in Plant Science**](https://www.edx.org/learn/biology-life-sciences/cornell-university-applications-of-machine-learning-in-plant-science) - a freely available edX course by [Adrian Powell](https://www.edx.org/bio/adrian-powell) and [Gaurav Moghe](https://www.edx.org/bio/gaurav-moghe). The course provides an introduction to the fundamentals of machine learning with application examples in the context of plant science.
+* [**CornellX - Applications of Machine Learning in Plant Science**](https://www.edx.org/learn/biology-life-sciences/cornell-university-applications-of-machine-learning-in-plant-science) - A freely available edX course by [Adrian Powell](https://www.edx.org/bio/adrian-powell) and [Gaurav Moghe](https://www.edx.org/bio/gaurav-moghe). The course provides an introduction to the fundamentals of machine learning with application examples in the context of plant science.
+* [**Stanford CS229: Machine Learning**](https://cs229.stanford.edu/) - A freely available course by [Emily Fox](https://emilybfox.su.domains/), [Sanmi Koyejo](https://cs.stanford.edu/~sanmi/) and [Andrew Ng](https://www.andrewng.org/) (Youtube). Full video lectures [here](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)
 * [**iGotKarmayogi**](https://www.igotkarmayogi.gov.in/#/) - Government of India website for online training of government officials
 
 
@@ -20,6 +21,9 @@ A repository of publicly available AI workbooks, tutorials and training infrastr
 
 ### General AI/ML tutorials useful for plant scientists
 * [**Hugging Face - Learn**](https://huggingface.co/learn) - Open-source platform with the most comprehensive ecosystem for ML development: Transformers library, Model Hub, Datasets, Spaces for deployment, and extensive documentation with practical tutorials. Relevant courses include: [LLM Course](https://huggingface.co/learn/llm-course/chapter1/1), [Deep Reinforcement Learning Course](https://huggingface.co/learn/deep-rl-course/unit0/introduction), [Diffusion Course](https://huggingface.co/learn/diffusion-course/unit0/1), and many others.
+* [Google — Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course) - Interactive ML fundamentals with exercises.
+* [Kaggle Learn — Micro-courses](https://www.kaggle.com/learn) - Short, practical courses (Python, pandas, ML, feature engineering, XGBoost, etc.).
+* [fast.ai — Practical Deep Learning for Coders](https://course.fast.ai/) - Practical DL course with notebooks
 
 
 
@@ -45,8 +49,8 @@ A repository of publicly available AI workbooks, tutorials and training infrastr
 ## Plant-specific foundation / pretrained models
 * [**scPlantLLM**](https://github.com/compbioNJU/scPlantLLM/tree/main) - a transformer-based model specifically designed for the exploration of single-cell expression atlases in plants
 * [**PlantCAD**](https://www.maizegenetics.net/plantcad) - DNA foundation model trained on plant genomes. PlantCAD enables cross-species genome annotation and deleterious mutation prediction. Also includes a link to a [Google Collab workbook](https://colab.research.google.com/drive/1QW9Lgwra0vHQAOICE2hsIVcp6DKClyhO?usp=sharing) for checking out PlantCAD.
-* [**PlantBert**]()
-* [**PLLaMA (Plant-LLaMA)**]()
+* [**PlantBert**](https://huggingface.co/PHENOMA/PlantDeBERTa) - Based on the paper [PlantBert: An Open Source Language Model for Plant Science](https://arxiv.org/html/2506.08897v1#:~:text=breakthroughs%20in%20biomedical%20and%20clinical,grounded%20entity%20normalization) it works as a named entity recognition (NER) and relation extraction in plant biology text, identifying genes, traits, stresses, and molecular interactions from papers.
+* [**PLLaMA (Plant-LLaMA)**](https://huggingface.co/Xianjun/PLLaMa-13b-instruct) - Based on the paper [PLLaMa: An Open-source Large Language Model for Plant Science](https://arxiv.org/abs/2401.01600#:~:text=However%2C%20their%20effectiveness%20is%20limited,Moreover%2C%20we%20have%20formed%20an) it's based on Meta’s LLaMA-2 architecture, but further trained on a database of 1.5+ million plant science articles and publications. It functions as a plant science expert, providing accurate responses to questions on plant science topics.
 * [**AgriBERT**]()
 
 ## General foundation models useful for plant research
