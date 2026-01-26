@@ -57,7 +57,6 @@ A repository of publicly available AI workbooks, tutorials and training infrastr
 
 # Models
 ## Plant-specific foundation / pretrained models
-* [**scPlantLLM**](https://github.com/compbioNJU/scPlantLLM/tree/main) - a transformer-based model specifically designed for the exploration of single-cell expression atlases in plants.
 * [**PlantCAD**](https://www.maizegenetics.net/plantcad) - DNA foundation model trained on plant genomes. PlantCAD enables cross-species genome annotation and deleterious mutation prediction. Also includes a link to a [Google Collab workbook](https://colab.research.google.com/drive/1QW9Lgwra0vHQAOICE2hsIVcp6DKClyhO?usp=sharing) for checking out PlantCAD.
 * [**PlantBert**](https://huggingface.co/PHENOMA/PlantDeBERTa) - Based on the [paper](https://arxiv.org/html/2506.08897v1#:~:text=breakthroughs%20in%20biomedical%20and%20clinical,grounded%20entity%20normalization) PlantBert: An Open Source Language Model for Plant Science  it works as a named entity recognition (NER) and relation extraction in plant biology text, identifying genes, traits, stresses, and molecular interactions from papers.
 * [**PLLaMA (Plant-LLaMA)**](https://huggingface.co/Xianjun/PLLaMa-13b-instruct) - Based on the [paper](https://arxiv.org/abs/2401.01600#:~:text=However%2C%20their%20effectiveness%20is%20limited,Moreover%2C%20we%20have%20formed%20an) PLLaMa: An Open-source Large Language Model for Plant Science it's based on Meta’s LLaMA-2 architecture, but further trained on a database of more than 1.5 million plant science articles and publications. It functions as a plant science expert, providing accurate responses to questions on plant science topics.
@@ -72,8 +71,9 @@ A repository of publicly available AI workbooks, tutorials and training infrastr
 ## General foundation models useful for plant research
 * [**ESM**](https://github.com/evolutionaryscale/esm) - EvolutionaryScale Models - protein foundation models for sequence and/or structure analysis
 * [**Profluent**](https://www.profluent.bio/) - Based on the [paper](https://www.biorxiv.org/content/10.1101/2025.11.12.688125v1.full) E1: Retrieval-Augmented Protein Encoder Models - Retrieval-Augmented Protein Encoder Model, provides relevant evolutionary context during training and inference of protein sequence, structure and function.
-* [**AlphaFold 2**](https://alphafoldserver.com/welcome) -
-* [**Boltz-2**](https://pmc.ncbi.nlm.nih.gov/articles/PMC12262699/) - 
+* [**AlphaFold 2**](https://alphafoldserver.com/welcome) - Protein structure prediction model that infers 3D protein structures from amino acid sequences. The open source AlphaFold 2 code enables local inference (useful for plant proteins/enzymes), and predicted structures can also be explored via the AlphaFold Protein Structure Database. For a web interface, AlphaFold 3 offers a non-comercial free server.
+* [**Boltz-2**](https://github.com/jwohlwend/boltz) - Based on the [paper](https://pmc.ncbi.nlm.nih.gov/articles/PMC12262699/) Boltz-2: Towards Accurate and Efficient Binding Affinity Prediction. Boltz-2 is an open structural biology foundation model that predicts biomolecular complex structures and binding affinity such as protein-ligand, protein-DNA, protein-RNA. Can be useful for plant protein-small molecules interaction screening and functional characterization.
+
 
  
 # Tools and applications using GenAI (plant-focused)
