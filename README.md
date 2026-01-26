@@ -79,8 +79,8 @@ A repository of publicly available AI workbooks, tutorials and training infrastr
  
 # Tools and applications using GenAI (plant-focused)
 
-* [**Plant Connectome**](https://plant.connectome.tools/) - PlantConnectome is a powerful resource providing insights into millions of relationships involving genes, molecules, compartments, stresses, organs, and other plant entities.
-* [**FuncZyme**](https://tools.moghelab.org/funczymedb) - Tools for predicting plant enzyme function, developed using LLM-based extraction of enzyme-substrate interactions.
+* [**Plant Connectome**](https://plant.connectome.tools/) <br> PlantConnectome is a powerful resource providing insights into millions of relationships involving genes, molecules, compartments, stresses, organs, and other plant entities.
+* [**FuncZyme**](https://tools.moghelab.org/funczymedb) <br> Tools for predicting plant enzyme function, developed using LLM-based extraction of enzyme-substrate interactions.
 
 ---
 
