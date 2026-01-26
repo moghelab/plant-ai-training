@@ -14,6 +14,7 @@ A repository of publicly available AI workbooks, tutorials and training infrastr
 
 ### Plant science-specific AI/ML courses
 * [**CornellX - Applications of Machine Learning in Plant Science**](https://learning.edx.org/course/course-v1:CornellX+AMLPS+2T2024/home) <br> A freely available edX course by Adrian Powell and Gaurav Moghe. The course provides an introduction to the fundamentals of machine learning with application examples in the context of plant science.
+* [**EMBL-EBI Data-Driven Plant Sciences**]()
 
 
 ## Hands-on tutorials and workbooks
@@ -67,6 +68,9 @@ A repository of publicly available AI workbooks, tutorials and training infrastr
 * [**PDLLMs**](https://bioinfor.yzu.edu.cn/software/PDLLMs) <br> Based on the [paper](https://www.cell.com/molecular-plant/fulltext/S1674-2052(24)00390-3?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS1674205224003903%3Fshowall%3Dtrue) PDLLMs: A group of tailored DNA large language models for analyzing plant genomes. Family of plant DNA LLMs (multiple architectures and checkpoints) with ready-to-use pipelines for downstream prediction tasks such as core promoter prediction, sequence conservation, histone modifications, lncRNAs, open chromatin and promoter strength. Users guide in the Plant-focused GenAI tutorials section.
 * [**PlantCaduceus**](https://github.com/plantcad/plantcad) <br> Based on the [paper](https://pmc.ncbi.nlm.nih.gov/articles/PMC11185591/) Cross-species modeling of plant genomes at single nucleotide resolution using a pre-trained DNA language model. Plant DNA language model built on Caduceus/Mamba sequence modeling. It is pre-trained on angiosperm genomes and designed for cross-species nucleotide level annotation tasks. 
 * [**PlantGPT**](https://github.com/DrZRX/Plant_LLM) <br> Based on the [paper](https://pmc.ncbi.nlm.nih.gov/articles/PMC12376578/) PlantGPT: An Arabidopsis‐Based Intelligent Agent that Answers Questions about Plant Functional Genomics. Retrieval-augmented LLM assistant fine-tuned for plant functional genomics, aimed at answering questions about phenotype–gene relationships and gene functions.
+* [**Plant-MAE**]()
+* [**SCOLD – Vision-Language Leaf Disease Model**]()
+* [**AgriGPT**]()
 
 
 ## General foundation models useful for plant research
@@ -74,6 +78,8 @@ A repository of publicly available AI workbooks, tutorials and training infrastr
 * [**Profluent**](https://www.profluent.bio/) <br> Based on the [paper](https://www.biorxiv.org/content/10.1101/2025.11.12.688125v1.full) E1: Retrieval-Augmented Protein Encoder Models - Retrieval-Augmented Protein Encoder Model, provides relevant evolutionary context during training and inference of protein sequence, structure and function.
 * [**AlphaFold 2**](https://alphafoldserver.com/welcome) <br> Protein structure prediction model that infers 3D protein structures from amino acid sequences. The open source AlphaFold 2 code enables local inference (useful for plant proteins/enzymes), and predicted structures can also be explored via the AlphaFold Protein Structure Database. For a web interface, AlphaFold 3 offers a non-comercial free server.
 * [**Boltz-2**](https://github.com/jwohlwend/boltz) <br> Based on the [paper](https://pmc.ncbi.nlm.nih.gov/articles/PMC12262699/) Boltz-2: Towards Accurate and Efficient Binding Affinity Prediction. Boltz-2 is an open structural biology foundation model that predicts biomolecular complex structures and binding affinity such as protein-ligand, protein-DNA, protein-RNA. Can be useful for plant protein-small molecules interaction screening and functional characterization.
+* [**Helixer**]()
+
 
 ---
  
@@ -81,6 +87,10 @@ A repository of publicly available AI workbooks, tutorials and training infrastr
 
 * [**Plant Connectome**](https://plant.connectome.tools/) <br> PlantConnectome is a powerful resource providing insights into millions of relationships involving genes, molecules, compartments, stresses, organs, and other plant entities.
 * [**FuncZyme**](https://tools.moghelab.org/funczymedb) <br> Tools for predicting plant enzyme function, developed using LLM-based extraction of enzyme-substrate interactions.
+* [****]()
+* [****]()
+* [****]()
+* [****]()
 
 ---
 
