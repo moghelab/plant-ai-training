@@ -14,18 +14,18 @@ A repository of publicly available AI workbooks, tutorials and training infrastr
 
 ### Plant science-specific AI/ML courses
 * [**CornellX - Applications of Machine Learning in Plant Science**](https://learning.edx.org/course/course-v1:CornellX+AMLPS+2T2024/home) <br> A freely available edX course by Adrian Powell and Gaurav Moghe. The course provides an introduction to the fundamentals of machine learning with application examples in the context of plant science.
-* [**EMBL-EBI Data-Driven Plant Sciences**]()
+* [**EMBL-EBI Data-Driven Plant Sciences**](https://www.ebi.ac.uk/training/online/courses/data-driven-plant-sciences/#:~:text=By%20the%20end%20of%20the,you%20will%20be%20able%20to) <br> A set of learning modules about data analysis in plant science. It includes a section on Machine learning and mathematical modelling for understanding plant molecular mechanisms.
 
 
 ## Hands-on tutorials and workbooks
 
 ### Plant-focused GenAI tutorials
 * [**Plant DNA LLMs**](https://github.com/zhangtaolab/Plant_DNA_LLMs) <br> Supplement to the [paper](https://www.cell.com/molecular-plant/fulltext/S1674-2052(24)00390-3) "PDLLMs: A group of tailored DNA large language models for analyzing plant genomes". The tutorial explains how to utilize a family of DNA foundation models for identifying core plant promoters.
-* [**PlantCV**](https://plantcv.org/?utm_source=chatgpt.com) <br> Supplement to the [paper](https://www.biorxiv.org/content/10.1101/2025.11.19.689271v1), PlantCV v4: Image analysis software for high-throughput plant phenotyping. It aims to develop open-source tools for measuring plant traits from images. It offers a set of tutorials and workshops to teach how to implement K-means Clustering, Naive Bayes and other AI algorithms to analyse plant phenotypes.
+* [**PlantCV**](https://plantcv.org/?utm_source=chatgpt.com) <br> Supplement to the [paper](https://www.biorxiv.org/content/10.1101/2025.11.19.689271v1), PlantCV v4: Image analysis software for high-throughput plant phenotyping. It aims to develop open source tools for measuring plant traits from images. It offers a set of tutorials and workshops to teach how to implement K-means Clustering, Naive Bayes and other AI algorithms to analyse plant phenotypes.
 * [**Ready-Steady-Go-AI**](https://github.com/HarfoucheLab/Ready-Steady-Go-AI) <br> Supplement to the [paper](https://www.sciencedirect.com/science/article/pii/S2666389921001719), Ready, Steady, Go AI: A Practical Tutorial on Fundamentals of Artificial Intelligence and Its Applications in Phenomics Image Analysis. It aims to introduce the basic principles for implementing AI and explainable AI algorithms in image-based data analysis using the PlantVillage dataset to detect and classify tomato leaf diseases and spider mites as a case study.
 
 ### General AI/ML tutorials useful for plant scientists
-* [**Hugging Face - Learn**](https://huggingface.co/learn) <br> Open-source platform with the most comprehensive ecosystem for ML development: Transformers library, Model Hub, Datasets, Spaces for deployment, and extensive documentation with practical tutorials. Relevant courses include: [LLM Course](https://huggingface.co/learn/llm-course/chapter1/1), [Deep Reinforcement Learning Course](https://huggingface.co/learn/deep-rl-course/unit0/introduction), [Diffusion Course](https://huggingface.co/learn/diffusion-course/unit0/1), and many others.
+* [**Hugging Face - Learn**](https://huggingface.co/learn) <br> Open source platform with the most comprehensive ecosystem for ML development: Transformers library, Model Hub, Datasets, Spaces for deployment, and extensive documentation with practical tutorials. Relevant courses include: [LLM Course](https://huggingface.co/learn/llm-course/chapter1/1), [Deep Reinforcement Learning Course](https://huggingface.co/learn/deep-rl-course/unit0/introduction), [Diffusion Course](https://huggingface.co/learn/diffusion-course/unit0/1), and many others.
 * [**Google — Machine Learning Crash Course**](https://developers.google.com/machine-learning/crash-course) <br> Interactive ML fundamentals with exercises.
 * [**Kaggle Learn — Micro-courses**](https://www.kaggle.com/learn) <br> Short, practical courses (Python, pandas, ML, feature engineering, XGBoost, etc.).
 * [**fast.ai — Practical Deep Learning for Coders**](https://course.fast.ai/) <br> Practical Deep Learning course with notebooks.
@@ -68,9 +68,9 @@ A repository of publicly available AI workbooks, tutorials and training infrastr
 * [**PDLLMs**](https://bioinfor.yzu.edu.cn/software/PDLLMs) <br> Based on the [paper](https://www.cell.com/molecular-plant/fulltext/S1674-2052(24)00390-3?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS1674205224003903%3Fshowall%3Dtrue) PDLLMs: A group of tailored DNA large language models for analyzing plant genomes. Family of plant DNA LLMs (multiple architectures and checkpoints) with ready-to-use pipelines for downstream prediction tasks such as core promoter prediction, sequence conservation, histone modifications, lncRNAs, open chromatin and promoter strength. Users guide in the Plant-focused GenAI tutorials section.
 * [**PlantCaduceus**](https://github.com/plantcad/plantcad) <br> Based on the [paper](https://pmc.ncbi.nlm.nih.gov/articles/PMC11185591/) Cross-species modeling of plant genomes at single nucleotide resolution using a pre-trained DNA language model. Plant DNA language model built on Caduceus/Mamba sequence modeling. It is pre-trained on angiosperm genomes and designed for cross-species nucleotide level annotation tasks. 
 * [**PlantGPT**](https://github.com/DrZRX/Plant_LLM) <br> Based on the [paper](https://pmc.ncbi.nlm.nih.gov/articles/PMC12376578/) PlantGPT: An Arabidopsis‐Based Intelligent Agent that Answers Questions about Plant Functional Genomics. Retrieval-augmented LLM assistant fine-tuned for plant functional genomics, aimed at answering questions about phenotype–gene relationships and gene functions.
-* [**Plant-MAE**]()
-* [**SCOLD – Vision-Language Leaf Disease Model**]()
-* [**AgriGPT**]()
+* [**Plant-MAE - A Masked Autoencoder**]() <br> Based on the [paper](https://www.sciencedirect.com/science/article/pii/S264365152500055X?via%3Dihub) Automated 3D Segmentation of Plant Organs via the Plant-MAE: A Self-Supervised Learning Framework. Plant-MAE achieved state of the art 3D segmentation accuracy across diverse field conditions and species, surpassing prior point cloud models (PointNet++, Point-M2AE, etc.). An open code is not yet available.
+* [**SCOLD - Vision-Language Leaf Disease Model**](https://huggingface.co/enalis/scold) <br> Based on the [paper](https://www.sciencedirect.com/science/article/abs/pii/S0957417425037005#:~:text=lack%20domain,grained%20classification%20tasks.%20Experimental%20results) A vision-language foundation model for leaf disease identification. Multimodal foundation model for diagnosis of plant pathologies, it was pretrained on a dataset of over 186,000 plant leaf images with captions describing disease symptoms, spanning 97 plant disease concepts.
+
 
 
 ## General foundation models useful for plant research
@@ -78,7 +78,7 @@ A repository of publicly available AI workbooks, tutorials and training infrastr
 * [**Profluent**](https://www.profluent.bio/) <br> Based on the [paper](https://www.biorxiv.org/content/10.1101/2025.11.12.688125v1.full) E1: Retrieval-Augmented Protein Encoder Models - Retrieval-Augmented Protein Encoder Model, provides relevant evolutionary context during training and inference of protein sequence, structure and function.
 * [**AlphaFold 2**](https://alphafoldserver.com/welcome) <br> Protein structure prediction model that infers 3D protein structures from amino acid sequences. The open source AlphaFold 2 code enables local inference (useful for plant proteins/enzymes), and predicted structures can also be explored via the AlphaFold Protein Structure Database. For a web interface, AlphaFold 3 offers a non-comercial free server.
 * [**Boltz-2**](https://github.com/jwohlwend/boltz) <br> Based on the [paper](https://pmc.ncbi.nlm.nih.gov/articles/PMC12262699/) Boltz-2: Towards Accurate and Efficient Binding Affinity Prediction. Boltz-2 is an open structural biology foundation model that predicts biomolecular complex structures and binding affinity such as protein-ligand, protein-DNA, protein-RNA. Can be useful for plant protein-small molecules interaction screening and functional characterization.
-* [**Helixer**]()
+* [**Helixer**](https://github.com/usadellab/Helixer) <br> Based on the [paper](https://www.nature.com/articles/s41592-025-02939-1) Helixer: ab initio prediction of primary eukaryotic gene models combining deep learning and a hidden Markov model. AI-driven platform for genome annotation across species. Trained on diverse eukaryotic genomes (fungi, plants, vertebrate and invertebrate), it combines deep learning with Hidden Markov Models to perform ab initio gene prediction directly from raw DNA sequence
 
 
 ---
@@ -87,10 +87,7 @@ A repository of publicly available AI workbooks, tutorials and training infrastr
 
 * [**Plant Connectome**](https://plant.connectome.tools/) <br> PlantConnectome is a powerful resource providing insights into millions of relationships involving genes, molecules, compartments, stresses, organs, and other plant entities.
 * [**FuncZyme**](https://tools.moghelab.org/funczymedb) <br> Tools for predicting plant enzyme function, developed using LLM-based extraction of enzyme-substrate interactions.
-* [****]()
-* [****]()
-* [****]()
-* [****]()
+* [**PlantScience.ai**](https://plantscience.ai/login) <br> Based on the [paper](https://www.biorxiv.org/content/10.1101/2025.10.24.684337v1). LLM model that answer plant biology questions using plant-specific knowledge graphs, using [autoSKG](https://github.com/COLA-Laboratory/autoSKG)) as its backend. It creates accurate responses with citations and interactive graph visualization of concepts.
 
 ---
 
