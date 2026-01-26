@@ -4,10 +4,12 @@ A repository of publicly available AI workbooks, tutorials and training infrastr
 
 ## Online free courses
 ### General AI-related courses
+* [**Udacity's Intro to Artificial Intelligence**](https://www.udacity.com/course/intro-to-artificial-intelligence--cs271) - Introductory concepts of AI: Foundation models, machine learning, computer vision, NLP and probabilistic reasoning.
 * [**Cornell University - Deep Generative Models course**](https://kuleshov-group.github.io/dgm-website/) - a freely available course by Volodymyr Kuleshov. Full video lectures [here](https://www.youtube.com/@vkuleshov/playlists) including for the course on Applied Machine Learning.
 * [**Cornell University - Intro to Deep Learning course**](https://www.cs.cornell.edu/courses/cs4782/2026sp/) - a freely available course by Kilian Weinberger  and Wei-Chiu Ma. It includes a complete learning syllabus, slides from each class and relevant resources.
 * [**Stanford CS229: Machine Learning**](https://cs229.stanford.edu/) - A freely available course by Emily Fox, Sanmi Koyejo and Andrew Ng. Full video lectures [here](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU).
-* [**USDA SCINet Training Resources**](https://scinet.usda.gov/training/free-online-training#:~:text=A%20list%20of%20free%20trainings,may%20help%20you%20get%20started) - The USDA Agricultural Research Service SCINet initiative offers a compiled list of free online computational training, sorted by topic, including Python, R, statistics, Artificial Intelligence and Machine Learning, Geospatial analysis, and more. 
+* [**HarvardX CS50AI Introduction to Artificial Intelligence with Python**](https://learning.edx.org/course/course-v1:HarvardX+CS50AI+1T2020/home?audit_mode=) - Introductory course for learning basic AI concenpts and algorithms in Python.
+* [**USDA SCINet Training Resources**](https://scinet.usda.gov/training/free-online-training#:~:text=A%20list%20of%20free%20trainings,may%20help%20you%20get%20started) - The USDA Agricultural Research Service SCINet initiative offers a compiled list of free online computational training, sorted by topic, including Python, R, statistics, Artificial Intelligence and Machine Learning, Geospatial analysis, and more.
 * [**iGotKarmayogi**](https://www.igotkarmayogi.gov.in/#/) - Government of India website for online training of government officials.
 
 ### Plant science-specific AI/ML courses
@@ -28,6 +30,7 @@ A repository of publicly available AI workbooks, tutorials and training infrastr
 * [**fast.ai — Practical Deep Learning for Coders**](https://course.fast.ai/) - Practical Deep Learning course with notebooks.
 * [**EMBL-EBI Training — Artificial Intelligence**](https://www.ebi.ac.uk/about/our-impact/ai-and-machine-learning/) - AI course materials targeted to life sciences, including plant focused.
 * [**Dive Into Deep Learning**](https://d2l.ai/chapter_preface/index.html) - Deep Learning book that covers theory and practical examples.
+* [**Udacity's Intro to TensorFlow for Deep Learning**](https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187) - Practical course of Deep Learning using TensorFlow and Keras API
 
 
 
