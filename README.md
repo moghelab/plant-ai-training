@@ -33,7 +33,7 @@ A repository of publicly available AI workbooks, tutorials and training infrastr
 * [**Udacity's Intro to TensorFlow for Deep Learning**](https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187) - Practical course of Deep Learning using TensorFlow and Keras API
 
 
-
+---
 
 # Datasets
 
@@ -54,6 +54,7 @@ A repository of publicly available AI workbooks, tutorials and training infrastr
 * [**EnsemblPlants**](https://plants.ensembl.org/index.html) - Databases providing reference genomes for dozens of plant species, along with gene annotations and comparative genomics tools.
 * [**Plant Cell Atlas**](https://www.plantcellatlas.org/tools-and-repositories.html) - Community resource that contains relevant RNA-seq, single-cell RNA-seq and genetic datasets.
 
+---
 
 # Models
 ## Plant-specific foundation / pretrained models
@@ -74,14 +75,14 @@ A repository of publicly available AI workbooks, tutorials and training infrastr
 * [**AlphaFold 2**](https://alphafoldserver.com/welcome) - Protein structure prediction model that infers 3D protein structures from amino acid sequences. The open source AlphaFold 2 code enables local inference (useful for plant proteins/enzymes), and predicted structures can also be explored via the AlphaFold Protein Structure Database. For a web interface, AlphaFold 3 offers a non-comercial free server.
 * [**Boltz-2**](https://github.com/jwohlwend/boltz) - Based on the [paper](https://pmc.ncbi.nlm.nih.gov/articles/PMC12262699/) Boltz-2: Towards Accurate and Efficient Binding Affinity Prediction. Boltz-2 is an open structural biology foundation model that predicts biomolecular complex structures and binding affinity such as protein-ligand, protein-DNA, protein-RNA. Can be useful for plant protein-small molecules interaction screening and functional characterization.
 
-
+---
  
 # Tools and applications using GenAI (plant-focused)
 
 * [**Plant Connectome**](https://plant.connectome.tools/) - PlantConnectome is a powerful resource providing insights into millions of relationships involving genes, molecules, compartments, stresses, organs, and other plant entities.
 * [**FuncZyme**](https://tools.moghelab.org/funczymedb) - Tools for predicting plant enzyme function, developed using LLM-based extraction of enzyme-substrate interactions.
 
-
+---
 
 # Compute and training platforms
 ## Free Computing Resources for AI Training
