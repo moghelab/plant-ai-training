@@ -3,6 +3,10 @@ A repository of publicly available AI workbooks, tutorials and training infrastr
 
 # Learning resources
 
+![github_image](https://github.com/user-attachments/assets/baa1cb83-dc22-43ea-80a4-7dacfb811a53)
+
+
+
 ## Online free courses
 ### General AI-related courses
 * [**Udacity's Intro to Artificial Intelligence**](https://www.udacity.com/course/intro-to-artificial-intelligence--cs271) <br> Introductory concepts of AI: Foundation models, machine learning, computer vision, NLP and probabilistic reasoning.
