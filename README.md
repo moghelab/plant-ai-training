@@ -2,11 +2,6 @@ A repository of publicly available AI workbooks, tutorials and training infrastr
 
 
 # Learning resources
-
-![github_image](https://github.com/user-attachments/assets/baa1cb83-dc22-43ea-80a4-7dacfb811a53)
-Figure created by: Gemini - Nano Banana Pro
-
-
 ## Online free courses
 ### General AI-related courses
 * [**Udacity's Intro to Artificial Intelligence**](https://www.udacity.com/course/intro-to-artificial-intelligence--cs271) <br> Introductory concepts of AI: Foundation models, machine learning, computer vision, NLP and probabilistic reasoning.
@@ -97,11 +92,16 @@ Figure created by: Gemini - Nano Banana Pro
 
 ---
 
-# Compute and training platforms
+# Compute, training and coding platforms
 ## Free Computing Resources for AI Training
-* [**Google Colab**](https://colab.google/) <br> Hosted Jupyter notebook service by Google that provides free access to computing resources, including GPUs and TPUs.
 * [**Kaggle Notebooks**](https://www.kaggle.com/code) <br>  Free cloud computing environment similar to Colab, integrated with its dataset repository. 
 * [**Hugging Face Spaces**](https://huggingface.co/docs/hub/en/spaces) <br> Simple way to deploy ML apps and demos on Hugging Face. If you develop a new model (say a plant disease identifier), you can create a Space and share an interactive demo with colleagues or the community.
+
+## Coding platforms and downloadable software
+* [**Google Colab**](https://colab.google/) <br> Hosted Jupyter notebook service by Google that provides free access to computing resources, including GPUs and TPUs.
+* [**Ollama**](https://ollama.com/) <br> A software to automate your work using open models, downloadable to your computer
+* [**Anaconda Navigator**](https://www.anaconda.com/products/navigator) <br> A software platform that incorporates many popular data science tools
+* [**VSCode**](https://code.visualstudio.com/) <br> Open-source AI code editor.
 
 ## Academic and Public HPC Infrastructures
 * [**CyVerse (formerly iPlant Collaborative)**](https://learning.cyverse.org/home/what_is_cyverse/) <br> NSF-funded Cloud infrastructure and open source software operated at the University of Arizona. Users can launch VMs, Docker containers or access computational resources for training AI models.
