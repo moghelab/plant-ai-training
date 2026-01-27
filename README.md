@@ -1,5 +1,58 @@
 A repository of publicly available AI workbooks, tutorials and training infrastructures from across the world, relevant to plant scientists. This is an evolving list. If you have any resources to share, please email Gaurav Moghe. 
 
+##################
+%%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#e1ecf4', 'edgeLabelBackground':'#ffffff', 'tertiaryColor': '#f0f5f8'}}}%%
+graph TB
+    subgraph REPO ["Repository: AI Resources for Plant Scientists"]
+        direction LR
+        
+        subgraph LEARN ["📚 Learning & Tutorials"]
+            direction TB
+            L1[General AI Principles<br/>(e.g., Stanford CS229, Kaggle)]
+            L2[Plant-Specific AI/ML<br/>(e.g., CornellX Plant Sci ML)]
+            L3[Hands-on Workbooks<br/>(e.g., PlantCV, Plant DNA LLMs)]
+        end
+
+        subgraph DATA ["💾 Datasets"]
+            direction TB
+            D1[Image Analysis<br/>(e.g., PlantVillage, OPPD)]
+            D2[Genomic & Genetic<br/>(e.g., EnsemblPlants, 1001 Genomes)]
+            D3[General Bio Benchmarks<br/>(e.g., UCI Repository)]
+        end
+
+        subgraph MODELS ["🧠 Models & Tools"]
+            direction TB
+            M1[Plant Foundation Models<br/>(e.g., AgroNT, PlantBERT, PlantCAD)]
+            M2[General Bio Models<br/>(e.g., AlphaFold 2, ESM)]
+            M3[Applications<br/>(e.g., PlantConnectome, FuncZyme)]
+        end
+
+        subgraph COMPUTE ["⚙️ Infrastructure"]
+            direction TB
+            C1[Free Interactive<br/>(e.g., Google Colab, Kaggle)]
+            C2[Academic HPC<br/>(e.g., CyVerse, USDA SCINet)]
+        end
+
+    end
+
+    %% Styling for a scientific look
+    classDef container fill:#f4f7fa,stroke:#333,stroke-width:2px;
+    classDef pillar fill:#ffffff,stroke:#666,stroke-width:1px,stroke-dasharray: 5 5;
+    classDef boxes fill:#eef4f9,stroke:#8fa4b8,stroke-width:1px;
+
+    class REPO container;
+    class LEARN,DATA,MODELS,COMPUTE pillar;
+    class L1,L2,L3,D1,D2,D3,M1,M2,M3,C1,C2 boxes;
+
+    %% Connecting the conceptual flow (optional, removes clutter if deleted)
+    COMPUTE -.-> DATA
+    DATA -.-> MODELS
+    LEARN -.-> MODELS
+
+##################
+
+
+
 # Learning resources
 
 ## Online free courses
