@@ -1,4 +1,4 @@
-A repository of publicly available AI workbooks, tutorials and training infrastructures from across the world, relevant to plant scientists
+A repository of publicly available AI workbooks, tutorials and training infrastructures from across the world, relevant to plant scientists. This is an evolving list. If you have any resources to share, please email Gaurav Moghe. 
 
 # Learning resources
 
