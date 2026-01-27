@@ -15,6 +15,7 @@ A repository of publicly available AI workbooks, tutorials and training infrastr
 ### Plant science-specific AI/ML courses
 * [**CornellX - Applications of Machine Learning in Plant Science**](https://learning.edx.org/course/course-v1:CornellX+AMLPS+2T2024/home) <br> A freely available edX course by Adrian Powell and Gaurav Moghe. The course provides an introduction to the fundamentals of machine learning with application examples in the context of plant science.
 * [**EMBL-EBI Data-Driven Plant Sciences**](https://www.ebi.ac.uk/training/online/courses/data-driven-plant-sciences/#:~:text=By%20the%20end%20of%20the,you%20will%20be%20able%20to) <br> A set of learning modules about data analysis in plant science. It includes a section on Machine learning and mathematical modelling for understanding plant molecular mechanisms.
+* [**Udemy AI in Agriculture: Practical Introductory Course**](https://www.udemy.com/course/ai-in-agriculture/) <br> Short introductory course on current applicationf of AI in agriculture.
 
 
 ## Hands-on tutorials and workbooks
