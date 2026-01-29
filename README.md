@@ -100,9 +100,17 @@ A repository of publicly available AI workbooks, tutorials and training infrastr
 
 ## Coding platforms and downloadable software
 * [**Google Colab**](https://colab.google/): Hosted Jupyter notebook service by Google that provides free access to computing resources, including GPUs and TPUs.
-* [**Ollama**](https://ollama.com/): A software to automate your work using open models, downloadable to your computer
 * [**Anaconda Navigator**](https://www.anaconda.com/products/navigator): A software platform that incorporates many popular data science tools
 * [**VSCode**](https://code.visualstudio.com/): Open-source AI code editor.
+
+## Open-source models repositories 
+* [**Ollama**](https://ollama.com/): A software to automate your work using open models, downloadable to your computer.
+* [**LLaMA.cpp**](https://github.com/ggml-org/llama.cpp): A GitHub repository that enables easy access to LLM local models and optimization tools.
+* [**VLLM**](https://github.com/vllm-project/vllm): Originaly created in the Sky Computing Lab at UC Berkeley, it is a community-driven initiative where you can find and run open-source models.
+* [**LM Studio**](https://lmstudio.ai/): Download and run open-source models locally on your machine.
+* [**SGLang**](https://github.com/sgl-project/sglang?tab=readme-ov-file): Open-source serving framework that runs large language and multimodal models on anything from a single local GPU to distributed clusters.
+* [**ExLLMaV3**](https://github.com/turboderp-org/exllamav3): Inference library for running local large language and multimodal models on consumer GPUs, with support for low-bit quantization and OpenAI-compatible serving via TabbyAPI.
+
 
 ## Academic and Public HPC Infrastructures
 * [**CyVerse (formerly iPlant Collaborative)**](https://learning.cyverse.org/home/what_is_cyverse/): NSF-funded Cloud infrastructure and open source software operated at the University of Arizona. Users can launch VMs, Docker containers or access computational resources for training AI models.
