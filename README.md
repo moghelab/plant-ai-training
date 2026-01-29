@@ -1,4 +1,33 @@
-A repository of publicly available AI workbooks, tutorials and training infrastructures from across the world, relevant to plant scientists. This is an evolving list. If you have any resources to share, please email Gaurav Moghe. 
+# AI Resources for Plant Scientists
+A repository of publicly available AI workbooks, tutorials and training infrastructures from across the world, relevant to plant scientists. 
+This is an evolving list. If you have any resources to share, please email Gaurav Moghe.
+
+## Table of Contents
+- [Learning Resources](#learning-resources)
+  - [Online Free Courses](#online-free-courses)
+    - [General AI-related courses](#general-ai-related-courses)
+    - [Plant science-specific AI/ML courses](#plant-science-specific-aiml-courses)
+  - [Hands-on Tutorials and Workbooks](#hands-on-tutorials-and-workbooks)
+    - [Plant-focused GenAI tutorials](#plant-focused-genai-tutorials)
+    - [General AI/ML tutorials useful for plant scientists](#general-aiml-tutorials-useful-for-plant-scientists)
+- [Datasets](#datasets)
+  - [General Datasets](#general-datasets)
+  - [Plant-specific Datasets](#plant-specific-datasets)
+    - [Image analysis](#image-analysis)
+    - [Genomic and Genetic](#genomic-and-genetic)
+- [Models](#models)
+  - [Plant-specific foundation / pretrained models](#plant-specific-foundation--pretrained-models)
+  - [General foundation models useful for plant research](#general-foundation-models-useful-for-plant-research)
+- [Tools and Applications using GenAI](#tools-and-applications-using-genai-plant-focused)
+- [Compute, Training and Coding Platforms](#compute-training-and-coding-platforms)
+  - [Free Computing Resources for AI Training](#free-computing-resources-for-ai-training)
+  - [Coding platforms and downloadable software](#coding-platforms-and-downloadable-software)
+  - [Open-source models repositories](#open-source-models-repositories)
+  - [Academic and Public HPC Infrastructures](#academic-and-public-hpc-infrastructures)
+  - [Industry and Cloud Resources](#industry-and-cloud-resources)
+
+---
+
 
 
 # Learning resources
