@@ -55,6 +55,7 @@ This is an evolving list. If you have any resources to share, please email Gaura
 * [**PlantCV**](https://plantcv.org/?utm_source=chatgpt.com): Supplement to the [paper](https://www.biorxiv.org/content/10.1101/2025.11.19.689271v1), PlantCV v4: Image analysis software for high-throughput plant phenotyping. It aims to develop open source tools for measuring plant traits from images. It offers a set of tutorials and workshops to teach how to implement K-means Clustering, Naive Bayes and other AI algorithms to analyse plant phenotypes.
 * [**Ready-Steady-Go-AI**](https://github.com/HarfoucheLab/Ready-Steady-Go-AI): Supplement to the [paper](https://www.sciencedirect.com/science/article/pii/S2666389921001719), Ready, Steady, Go AI: A Practical Tutorial on Fundamentals of Artificial Intelligence and Its Applications in Phenomics Image Analysis. It aims to introduce the basic principles for implementing AI and explainable AI algorithms in image-based data analysis using the PlantVillage dataset to detect and classify tomato leaf diseases and spider mites as a case study.
 * [**EMBL-EBI Training — Artificial Intelligence**](https://www.ebi.ac.uk/about/our-impact/ai-and-machine-learning/): AI course materials targeted to life sciences, including plant focused.
+* [**PhenoAssistant**](https://github.com/vios-s/PhenoAssistant): Supplement to the [paper](https://arxiv.org/abs/2504.19818), PhenoAssistant: A Conversational Multi-Agent AI System for Automated Plant Phenotyping. It is a conversational multi agent AI system for automated image based plant phenotyping that uses vision models, data analysis tools, and language agents, with workflows, evaluations, and learning examples provided as Jupyter (IPython) notebooks.
 
 ### General AI/ML tutorials useful for plant scientists
 * [**Hugging Face - Learn**](https://huggingface.co/learn): Open source platform with the most comprehensive ecosystem for ML development: Transformers library, Model Hub, Datasets, Spaces for deployment, and extensive documentation with practical tutorials. Relevant courses include: [LLM Course](https://huggingface.co/learn/llm-course/chapter1/1), [Deep Reinforcement Learning Course](https://huggingface.co/learn/deep-rl-course/unit0/introduction), [Diffusion Course](https://huggingface.co/learn/diffusion-course/unit0/1), and many others.
@@ -63,6 +64,7 @@ This is an evolving list. If you have any resources to share, please email Gaura
 * [**fast.ai — Practical Deep Learning for Coders**](https://course.fast.ai/): Practical Deep Learning course with notebooks.
 * [**Dive Into Deep Learning**](https://d2l.ai/chapter_preface/index.html): Deep Learning book that covers theory and practical examples.
 * [**Udacity's Intro to TensorFlow for Deep Learning**](https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187): Practical course of Deep Learning using TensorFlow and Keras API
+* [**Understanding Deep Learning**](https://udlbook.github.io/udlbook/): Open-access PDF book about the basics of Deep Learning, it comes with a serie of Jupyter notebooks and slides for each section.
 
 
 ---
@@ -101,6 +103,7 @@ This is an evolving list. If you have any resources to share, please email Gaura
 * [**PlantGPT**](https://github.com/DrZRX/Plant_LLM): Based on the [paper](https://pmc.ncbi.nlm.nih.gov/articles/PMC12376578/), PlantGPT: An Arabidopsis‐Based Intelligent Agent that Answers Questions about Plant Functional Genomics. Retrieval-augmented LLM assistant fine-tuned for plant functional genomics, aimed at answering questions about phenotype–gene relationships and gene functions.
 * [**Plant-MAE - A Masked Autoencoder**](): Based on the [paper](https://www.sciencedirect.com/science/article/pii/S264365152500055X?via%3Dihub), Automated 3D Segmentation of Plant Organs via the Plant-MAE: A Self-Supervised Learning Framework. Plant-MAE achieved state of the art 3D segmentation accuracy across diverse field conditions and species, surpassing prior point cloud models (PointNet++, Point-M2AE, etc.). An open code is not yet available.
 * [**SCOLD - Vision-Language Leaf Disease Model**](https://huggingface.co/enalis/scold): Based on the [paper](https://www.sciencedirect.com/science/article/abs/pii/S0957417425037005#:~:text=lack%20domain,grained%20classification%20tasks.%20Experimental%20results), A vision-language foundation model for leaf disease identification. Multimodal foundation model for diagnosis of plant pathologies, it was pretrained on a dataset of over 186,000 plant leaf images with captions describing disease symptoms, spanning 97 plant disease concepts.
+* [**BeanGPT**](https://uogbeans.com/AI%20&%20Analysis%20Hub/): Developed by Kiarash Mirkamandari at the University of Guelph, with a paper currently under review. It is a domain specific large language model for bean breeding and computational plant biology that integrates curated scientific literature, field trial data, and multi-omics resources to support research and breeding decisions.
 
 
 
@@ -120,6 +123,7 @@ This is an evolving list. If you have any resources to share, please email Gaura
 * [**Plant Connectome**](https://plant.connectome.tools/): PlantConnectome is a powerful resource providing insights into millions of relationships involving genes, molecules, compartments, stresses, organs, and other plant entities.
 * [**FuncZyme**](https://tools.moghelab.org/funczymedb): Tools for predicting plant enzyme function, developed using LLM-based extraction of enzyme-substrate interactions.
 * [**PlantScience.ai**](https://plantscience.ai/login): Based on the [paper](https://www.biorxiv.org/content/10.1101/2025.10.24.684337v1), PlantScience.ai: An LLM-Powered Virtual Scientist for Plant Science. LLM model that answer plant biology questions using plant-specific knowledge graphs, using [autoSKG](https://github.com/COLA-Laboratory/autoSKG)) as its backend. It creates accurate responses with citations and interactive graph visualization of concepts.
+
 
 ---
 
