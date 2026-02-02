@@ -87,6 +87,7 @@ This is an evolving list. If you have any resources to share, please email Gaura
 * [**1001 Genomes Tools**](https://1001genomes.org/tools.html): A multi-omics dataset collection focused on A. thaliana.
 * [**EnsemblPlants**](https://plants.ensembl.org/index.html): Databases providing reference genomes for dozens of plant species, along with gene annotations and comparative genomics tools.
 * [**Plant Cell Atlas**](https://www.plantcellatlas.org/tools-and-repositories.html): Community resource that contains relevant RNA-seq, single-cell RNA-seq and genetic datasets.
+* [**Sorghum Base**](https://www.sorghumbase.org/): Community resource that integrates genetic, genomic, and breeding resources for sorghum germplasm improvement.
 
 ---
 
