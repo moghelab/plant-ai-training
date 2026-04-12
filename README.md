@@ -41,6 +41,7 @@ This is an evolving list. If you have any resources to share, please email Gaura
 * [**USDA SCINet Training Resources**](https://scinet.usda.gov/training/free-online-training#:~:text=A%20list%20of%20free%20trainings,may%20help%20you%20get%20started): The USDA Agricultural Research Service SCINet initiative offers a compiled list of free online computational training, sorted by topic, including Python, R, statistics, Artificial Intelligence and Machine Learning, Geospatial analysis, and more.
 * [**India AI training courses**](https://indiaai.gov.in/learning): Government of India website hosting links to free and paid courses .
 * [**AI Literacy Africa**](https://ailiteracyafrica.org/): A collection of free and paid courses and certifications.
+* [**AI training**](https://tech.msu.edu/technology/ai/training/): A list of AI training courses offered by Microsoft, Google and OpenAI
 
 ### Plant science-specific AI/ML courses
 * [**CornellX - Applications of Machine Learning in Plant Science**](https://learning.edx.org/course/course-v1:CornellX+AMLPS+2T2024/home): A freely available edX course by Adrian Powell and Gaurav Moghe. The course provides an introduction to the fundamentals of machine learning with application examples in the context of plant science.
