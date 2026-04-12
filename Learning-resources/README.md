@@ -12,6 +12,13 @@
 * [**AI Literacy Africa**](https://ailiteracyafrica.org/): A collection of free and paid courses and certifications.
 * [**AI training**](https://tech.msu.edu/technology/ai/training/): A list of AI training courses offered by Microsoft, Google and OpenAI
 
+### YouTube channels and personalities
+* [**Andrej Karpathy**](https://karpathy.ai/) and his [YouTube Channel](https://www.youtube.com/@AndrejKarpathy)
+* [**3Blue1Brown Neural Networks playlist**](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
+* [**StatQuest by Josh Starmer**](https://www.youtube.com/@statquest/featured) - a geneticist by training, from NCSU
+* [**Jeff Su**](https://www.youtube.com/@JeffSu)
+
+
 ### Plant science-specific AI/ML courses
 * [**CornellX - Applications of Machine Learning in Plant Science**](https://learning.edx.org/course/course-v1:CornellX+AMLPS+2T2024/home): A freely available edX course by Adrian Powell and Gaurav Moghe. The course provides an introduction to the fundamentals of machine learning with application examples in the context of plant science.
 * [**EMBL-EBI Data-Driven Plant Sciences**](https://www.ebi.ac.uk/training/online/courses/data-driven-plant-sciences/#:~:text=By%20the%20end%20of%20the,you%20will%20be%20able%20to): A set of learning modules about data analysis in plant science. It includes a section on Machine learning and mathematical modelling for understanding plant molecular mechanisms.
