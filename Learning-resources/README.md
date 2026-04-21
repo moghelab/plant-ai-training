@@ -26,6 +26,8 @@
 
 
 ## Hands-on tutorials and workbooks
+### Plants and Python
+* [**Plants&Python**](https://github.com/PlantsAndPython/PlantsAndPython): A series of lessons in coding, plant biology, computation, and bioinformatics. Many Jupyter notebooks on many topics in Python including AI. Supplement to [this paper in Plant Cell.](https://academic.oup.com/plcell/article/34/7/e1/6628764)
 
 ### Plant-focused GenAI tutorials
 * [**scPlantLLM**](https://github.com/compbioNJU/scPlantLLM): Single-cell Plant Large Language Model is a transformer-based foundation model designed to explore the complexity of plant scRNA-seq data. scPlantLLM treats single cells as "sentences" and genes as "words" to uncover intricate biological patterns. This detailed tutorial provides step-by-step instructions on how to install and deploy scPlantLLM for scRNA-seq studies. Demo datasets are included.
