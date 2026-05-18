@@ -1,1 +1,1 @@
-This folder contains the latest version and the supplementary material associated with the Plant Cell perspective piece
+This folder contains the latest version and the supplementary material associated with the Plant Cell perspective piece, available here: https://academic.oup.com/plcell/advance-article/doi/10.1093/plcell/koag140/8676660
